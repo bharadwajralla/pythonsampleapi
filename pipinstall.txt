@@ -1,0 +1,11 @@
+pip install fastapi
+pip install pydantic
+pip install requests
+pip install python-gitlab
+pip install GitPython
+pip install sonarqube-community
+pip install scikit-learn
+pip install torch
+pip install transformers
+pip install uvicorn
+pip install python-sonarqube-api
